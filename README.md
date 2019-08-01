@@ -1,0 +1,10 @@
+# zhizibei
+智子杯大赛后记
+augdataset是随机平移
+findsamelabel是找到同一行相同的标签
+imglmdb180827是制作图像标签lmdb
+lmdbtest是测试制作的lmdb是否正确
+modelblend是融合各个模型，输出最后结果
+resize是改变图像大小
+spectrum_net是皓天写的一个pytorch网络
+testaccent是测试单个网络结果
