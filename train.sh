@@ -1,0 +1,2 @@
+C:/vsprojects/caffe_cropfix/caffe/caffe-master/Build/x64/Release/caffe train --solver=./face_attr_recog_solver.prototxt --weights=./resnet-18.caffemodel  -gpu 0 > ./log_190731190731gaussian.txt 2>&1 &
+#--weights=./resnet-18.caffemodel
